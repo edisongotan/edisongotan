@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @edisongotan
+- 👀 I’m interested in development of modern applications
+- 🌱 I’m currently learning Python and other emerging tech
+- 💞️ I’m looking to collaborate on projects that benefits more people
+- 📫 You can reach me by sending an email to edison@hubnob.com
